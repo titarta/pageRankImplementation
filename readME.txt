@@ -1,0 +1,3 @@
+É um projeto de visual studio, se o tiver instalado é simplesmente clicar no sln e o projeto abre-se. Possívelmente será necessário instalar algumas nuGet packages. Caso haja problemas pode simplesmente contactar-me.
+
+Para correr é preciso dar load de um grafo (neste caso usando o example1.txt que corresponde ao exemplo do tpc), e depois correr o pageRank, ou o ex 5 para escrever para uma pasta os resultados (pasta está no debug)
